@@ -1,3 +1,3 @@
-# myProject
+Simple Blog/Article maker
 
-A quick description of myProject.
+Made to test Strapi and Gatsby
